@@ -1,2 +1,3 @@
 .vscode
 ems-backend/src/main/resources
+ems-backend/src/main/resources/application.properties
